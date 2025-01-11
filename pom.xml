@@ -68,7 +68,7 @@
                                 <artifactItem>
                                     <groupId>org.eclipse.jetty</groupId>
                                     <artifactId>jetty-runner</artifactId>
-                                    <version>9.4.51.M0</version>
+                                    <version>9.4.51.v20230217</version>
                                     <destFileName>jetty-runner.jar</destFileName>
                                 </artifactItem>
                             </artifactItems>
